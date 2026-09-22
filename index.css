@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #1B244A;
+    background-color: #000033;
     background-size: cover;
 }
 
@@ -23,7 +23,7 @@ h3{
     border-radius: 5px;
     width: 150px;
     height: 120px;
-    color: #F94F6D;
+    color: #CC0000;
     font-family: "Cursed Timer ULiL", monospace;
     font-size: 90px;
     display: flex;
