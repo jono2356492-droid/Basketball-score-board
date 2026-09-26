@@ -1,4 +1,5 @@
-# Getting Started
+# Create Basketball scorecard
+
 Install the dependencies and run the project
 ```
 npm install
